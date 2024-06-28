@@ -6,9 +6,13 @@ Original LOFAR system by ASTRON
 Packet formatting design by Arno Schoenmaker, et al., ASTRON
 The KLP software:
 Based on the original code "udptest" by James Anderson, MPIfR
+
 v0.1 26-Nov-2012, Juha Vierinen, SGO, & Derek McKay, RAL
+
 v1.0 15-May-2015, Ilkka Virtanen, U.Oulu
+
 v1.1 02-Oct-2015, Ilkka Virtanen, U.Oulu
+
 v1.4 20-Mar-2024, Derek McKay, Aalto
 
 ## INTRODUCTION
