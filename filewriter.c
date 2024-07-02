@@ -146,7 +146,9 @@ void klp_init(int argc, char **argv, recorder_t *d)
   printf("number of channels to save %d\n",ud->n_save_channels);
 
   make_directory();
-  d->buffersize = 390625;
+  
+  //  d->buffersize = 390625;
+  d->buffersize=N_SAMPLES_OUT;
 
   ud->filecounter = 1;
   d->userdata = (void *)ud;

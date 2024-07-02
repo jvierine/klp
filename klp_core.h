@@ -58,7 +58,11 @@
 #define MIN(a, b) (((a) < (b)) ? (a) : (b))
 
 /* the number of samples to output (exactly 2 s) */
-#define N_SAMPLES_OUT 390625
+/* #define N_SAMPLES_OUT 390625 */
+
+
+/* one minute */
+#define N_SAMPLES_OUT 11718750
 
 /* number of time points per packet */
 #define N_SAMPLES_PER_PACKET 16
