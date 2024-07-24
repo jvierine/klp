@@ -15,6 +15,8 @@ v1.1 02-Oct-2015, Ilkka Virtanen, U.Oulu
 
 v1.4 20-Mar-2024, Derek McKay, Aalto
 
+v1.5 01-Jul-2024, Juha Vierinen, UiT (switched to 60 second files)
+
 ## INTRODUCTION
 
 The purpose of this programme is to allow simple local access to the
